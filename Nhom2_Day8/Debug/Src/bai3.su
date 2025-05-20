@@ -1,0 +1,8 @@
+bai3.c:47:6:delay_ms	24	static
+bai3.c:51:6:init_output	32	static
+bai3.c:63:6:init_input	32	static
+bai3.c:74:6:set_pin	16	static
+bai3.c:81:9:read_button	16	static
+bai3.c:85:6:blink_all_leds_and_buzzer	24	static
+bai3.c:101:6:blink_rgb_green2	24	static
+bai3.c:111:5:main	24	static
